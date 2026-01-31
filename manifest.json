@@ -1,0 +1,10 @@
+{
+  "id": "local-html-embed",
+  "name": "Local HTML Embed",
+  "version": "1.2.0",
+  "minAppVersion": "1.0.0",
+  "description": "Embed local HTML files as iframes in your markdown notes. Perfect for interactive visualizations.",
+  "author": "Poesy",
+  "authorUrl": "https://github.com/poesy",
+  "isDesktopOnly": false
+}
