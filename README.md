@@ -6,6 +6,15 @@ Embed local HTML files as interactive iframes in your Obsidian markdown notes.
 
 ## Installation
 
+### BRAT Installation (Recommended)
+1. Install and enable [BRAT](https://github.com/TfTHacker/obsidian42-brat) from Obsidian's community plugins.
+2. Open Settings → BRAT → Beta Plugin List → Add Beta plugin.
+3. Enter this repository URL:
+   ```text
+   https://github.com/Poesy-Lab/obsidian-local-html-embed
+   ```
+4. Enable "Local HTML Embed" from Settings → Community plugins.
+
 ### Manual Installation
 1. Download this repository
 2. Copy `main.js` and `manifest.json` to your vault's `.obsidian/plugins/local-html-embed/` folder
@@ -100,6 +109,15 @@ MIT License
 마크다운 노트에서 로컬 HTML 파일을 인터랙티브하게 임베드하는 Obsidian 플러그인입니다.
 
 ## 설치
+
+### BRAT 설치 (권장)
+1. Obsidian 커뮤니티 플러그인에서 [BRAT](https://github.com/TfTHacker/obsidian42-brat)을 설치하고 활성화합니다.
+2. 설정 → BRAT → Beta Plugin List → Add Beta plugin으로 이동합니다.
+3. 아래 저장소 URL을 입력합니다:
+   ```text
+   https://github.com/Poesy-Lab/obsidian-local-html-embed
+   ```
+4. 설정 → 커뮤니티 플러그인에서 "Local HTML Embed"를 활성화합니다.
 
 ### 수동 설치
 1. 이 저장소를 다운로드
