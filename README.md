@@ -20,8 +20,8 @@ Embed local HTML files as interactive iframes in your Obsidian markdown notes.
 2. Copy `main.js` and `manifest.json` to your vault's `.obsidian/plugins/local-html-embed/` folder
 3. Go to Settings → Community plugins → Enable "Local HTML Embed"
 
-### From Community Plugins (Coming Soon)
-Search for "Local HTML Embed" in Obsidian's community plugins browser.
+### Community Plugin Notice
+This repository is not currently distributed through Obsidian's community plugin browser. To install this version, use BRAT or manual installation from this repository.
 
 ## Usage
 
@@ -123,6 +123,9 @@ MIT License
 1. 이 저장소를 다운로드
 2. `main.js`와 `manifest.json`을 vault의 `.obsidian/plugins/local-html-embed/` 폴더에 복사
 3. 설정 → 커뮤니티 플러그인 → "Local HTML Embed" 활성화
+
+### 커뮤니티 플러그인 안내
+이 저장소 버전은 현재 Obsidian 커뮤니티 플러그인 브라우저를 통해 배포되지 않습니다. 이 버전을 설치하려면 위의 BRAT 설치 방법 또는 수동 설치 방법을 사용하세요.
 
 ## 사용법
 
